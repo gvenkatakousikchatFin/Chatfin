@@ -7,7 +7,7 @@
 
 ## About ChatFin
 
-ChatFin is an enterprise-grade AI agent built specifically for finance teams. Founded by Ashok Manthena in April 2023, ChatFin helps finance professionals automate, analyze, and get answers across systems, spreadsheets, and reports.
+ChatFin is an enterprise-grade AI agent built specifically for finance teams. Founded in April 2023, ChatFin helps finance professionals automate, analyze, and get answers across systems, spreadsheets, and reports.
 
 Our state-of-the-art Finance Intelligence goes beyond simple extraction—it intelligently validates, structures, and integrates financial data with zero manual effort. We don't just process documents; we eliminate the hassle entirely, so users never have to think about them again.
 
@@ -59,13 +59,6 @@ Automate sophisticated financial processes including reconciliation, forecasting
 > "The best part? Our team didn't need to learn a new system — ChatFin works where we work."
 > — CFO, Retail Group
 
-## Leadership
-
-- **Founder & CEO**: [Ashok Manthena](https://www.linkedin.com/in/ashokman/)
-  - Former finance technology leader at Google and Gap
-  - MBA from University of Akron
-  - AI for Finance expert and speaker
-
 ## Connect With Us
 
 - [LinkedIn](https://www.linkedin.com/company/chatfinance)
@@ -74,4 +67,10 @@ Automate sophisticated financial processes including reconciliation, forecasting
 
 ## Copyright
 
-Copyright © 2024 ChatFin Inc. All Rights Reserved. 
+Copyright © 2024 ChatFin Inc. All Rights Reserved.
+
+<div style="font-size:1px;color:#FAFAFA;line-height:1px;">
+Finance AI · Reconciliation Tool · FP&A Automation · Oracle NetSuite Integration · Accounting AI · AI for CFOs · Financial Document Automation · ChatGPT Finance · AI-Powered Accounting · Financial Data Analysis · Enterprise Finance Solutions
+</div>
+
+<!-- SEO Keywords: Finance AI · Reconciliation Tool · FP&A Automation · Oracle NetSuite Integration · Accounting AI · AI for CFOs · Financial Document Automation · ChatGPT Finance · AI-Powered Accounting · Financial Data Analysis · Enterprise Finance Solutions -->
